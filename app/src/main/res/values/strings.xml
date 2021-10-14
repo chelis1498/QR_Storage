@@ -9,4 +9,22 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="puesto">
+        <item>Gerente</item>
+        <item>Coordinador</item>
+        <item>Ingeniero</item>
+        <item>Arquitecto</item>
+        <item>Auxiliar</item>
+        <item>Becario</item>
+    </string-array>
+
+    <string-array name="equipo">
+
+        <item>Gerencia</item>
+        <item>Ingenieria</item>
+        <item>Arquitectos</item>
+
+    </string-array>
+
 </resources>
