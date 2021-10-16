@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QRStorage">
         <activity
+            android:name=".principal"
+            android:exported="false" />
+        <activity
             android:name=".regUsuarios"
             android:exported="true" />
         <activity

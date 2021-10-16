@@ -34,6 +34,7 @@
         app:startIconDrawable="@drawable/ic_correo">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/logEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textEmailAddress">
@@ -57,6 +58,7 @@
         app:startIconDrawable="@drawable/ic_lock">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/logPass"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword">
@@ -67,7 +69,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn_LogIn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
@@ -80,13 +82,13 @@
     </Button>
 
     <Button
-        android:id="@+id/btnRegUsuario"
+        android:id="@+id/btn_Registro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/btn_LogIn"
 
         android:text="Registrarme"
         app:cornerRadius="20dp"

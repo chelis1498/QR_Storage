@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638983949011",
+    "project_id": "qr-storage-ae989",
+    "storage_bucket": "qr-storage-ae989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638983949011:android:a32d5938f676affe61e226",
+        "android_client_info": {
+          "package_name": "com.example.qrstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638983949011-5h7qsnf3ltjmothk3v4pn7s07ju2f3e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5T7CL_dLphIrhSkWFPWrYKrxFb7KT9CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638983949011-5h7qsnf3ltjmothk3v4pn7s07ju2f3e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

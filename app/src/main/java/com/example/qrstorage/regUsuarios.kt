@@ -4,13 +4,16 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.AutoCompleteTextView
+import android.widget.Button
 import com.example.qrstorage.databinding.ActivityMainBinding
 import com.example.qrstorage.databinding.ActivityRegUsuariosBinding
+import com.google.firebase.auth.FirebaseAuth
 
 class regUsuarios : AppCompatActivity() {
 
-    //val autCompEquipo = findViewById<AutoCompleteTextView>(R.id.selectEquipo)
     private lateinit var binding: ActivityRegUsuariosBinding
+
+    private lateinit var logAuth : FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
