@@ -21,6 +21,7 @@
         app:startIconDrawable="@drawable/ic_correo">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/correoRegUsuario"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textEmailAddress">
@@ -38,6 +39,7 @@
         android:layout_marginTop="16dp"
         android:hint="Contraseña"
         app:endIconMode="password_toggle"
+        app:helperText="*Minimo 6 caracteres*"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout"
@@ -45,6 +47,7 @@
 
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/contraseñaRegUsuario"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"></com.google.android.material.textfield.TextInputEditText>
@@ -64,6 +67,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout4">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Nombre"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -84,6 +88,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout5">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/aPaterno"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -104,6 +109,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout6">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/aMaterno"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
