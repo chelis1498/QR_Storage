@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.qrstorage.databinding.ActivityMainBinding
 import com.example.qrstorage.databinding.ActivityPrincipalBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
@@ -59,7 +58,7 @@ class principal : AppCompatActivity() {
 
     private fun signOut() {
         Firebase.auth.signOut()
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, logIn::class.java)
         startActivity(intent)
     }
 

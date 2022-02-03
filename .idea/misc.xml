@@ -3,10 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/drawable/ic_baseline_123_24.xml" value="0.102" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/drawable/ic_baseline_edit_calendar_24.xml" value="0.102" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/drawable/ic_baseline_edit_note_24.xml" value="0.102" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/drawable/ic_edit.xml" value="0.102" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/drawable/ic_qr_scanner.xml" value="0.215" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/activity_principal.xml" value="0.25" />
         <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/activity_reg_usuarios.xml" value="0.25" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/fragment_crear.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/fragment_perfil.xml" value="0.2920517560073937" />
         <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/list_item.xml" value="0.18" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/layout/nav_graph.xml" value="0.209375" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/cheli/AndroidStudioProjects/QR_Storage/app/src/main/res/menu/menu_main.xml" value="0.209375" />
       </map>
     </option>
   </component>
