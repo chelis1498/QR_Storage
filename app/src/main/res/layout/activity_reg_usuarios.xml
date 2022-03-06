@@ -82,7 +82,7 @@
 
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:hint="Apellido materno"
+        android:hint="Apellido Paterno"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout5">
@@ -103,7 +103,7 @@
 
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:hint="Apellido Paterno"
+        android:hint="Apellido Materno"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout6">
